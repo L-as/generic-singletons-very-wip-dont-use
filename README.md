@@ -1,3 +1,12 @@
+# THIS DOESN'T WORK YET
+
+Missing: need to implement `scon` and `smatch`.
+Also missing:
+- `sfix`/`sunfix`
+- `ssome`/`sunsome`
+- `sforall`/`sunforall`
+- `seq`/`suneq`
+
 # Generic singletons
 
 Ever wanted to do dependently typed programming in Haskell without tons of TH?
